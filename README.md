@@ -61,4 +61,4 @@ The key to solving HardwareHub's problems lay in visualizing the data. Instead o
 - **Improved Decision-Making**:
   - Rohit Kumar no longer relied on large Excel files or ambiguous reports. Decision-making became data-driven, leading to improved sales and operational efficiency.
 
-**Live on - **
+**Live on - [Project Link](https://shivamjha2705.github.io/HardwareHub_sales_insights)**
