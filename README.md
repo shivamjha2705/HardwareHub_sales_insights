@@ -27,20 +27,28 @@ The key to solving HardwareHub's problems lay in visualizing the data. Instead o
 ## Dashboard Walkthrough
 
 1. **Top Five Products**:
+   
    - Visualization showing the top-performing products by sales volume.
-   ![Top 5 products](https://github.com/user-attachments/assets/98ace9a6-04a7-437b-b70b-43359b1d4503)
+     
+   - ![Top 5 products](https://github.com/user-attachments/assets/98ace9a6-04a7-437b-b70b-43359b1d4503)
 
-2. **Top Five Customers**:
+3. **Top Five Customers**:
+   
    - Visualization highlighting the top customers by revenue contribution.
+     
    ![Top 5 customers](https://github.com/user-attachments/assets/588468eb-dbba-4460-acbd-7b9bdf1350e5)
 
-3. **Revenue Trends**:
+5. **Revenue Trends**:
+   
    - Line chart displaying revenue trends over time, helping to identify peak periods and dips.
-   ![Revenue Trends](https://github.com/user-attachments/assets/0559d9a9-afb5-4f42-b127-633b1416ecde)
+     
+   - ![Revenue Trends](https://github.com/user-attachments/assets/0559d9a9-afb5-4f42-b127-633b1416ecde)
 
 ## ---------- Dashboard ----------------
 
-[Dashboard](https://public.tableau.com/app/profile/shivam.kumar6993/viz/SalesDashboard_17224823975760/Dashboard1?publish=yes)
+
+
+[![image](https://github.com/user-attachments/assets/0bd4c0d8-b2c6-49db-9433-24056631582b)](https://public.tableau.com/app/profile/shivam.kumar6993/viz/SalesDashboard_17224823975760/Dashboard1?publish=yes)
 
 ## Outcome
 
